@@ -38,7 +38,6 @@
 #       OPTIONAL (disabled): leave-one-patient-out CV
 #
 # This avoids tuning the neural architecture further to a 29-patient strict
-# cohort while making the reported uncertainty and robustness more publishable.
 # =============================================================================
 
 import os
