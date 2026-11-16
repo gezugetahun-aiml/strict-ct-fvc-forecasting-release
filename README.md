@@ -81,7 +81,7 @@ After generating local OOF predictions with the frozen model:
 
 ```bash
 python analysis/analyze_local_oof.py --oof local_outputs/your_oof.csv
-python analysis/make_catastrophic_expert_range_table.py --oof local_outputs/your_oof.csv
+python analysis/make_catastrophic_expert_range_table.py --oof local_outputs/your_oof.csv 
 ```
 
 ## Availability boundary
